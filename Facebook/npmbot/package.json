@@ -1,0 +1,30 @@
+{
+  "name": "scuuad_bot",
+  "version": "0.0.0",
+  "description": "bots fb fun screwing around cool",
+  "main": "bot.js",
+  "dependencies": {
+    "facebook-chat-api": "~1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/svv232/Facebook-Bots.git"
+  },
+  "keywords": [
+    "bots",
+    "fb",
+    "fun",
+    "screwing",
+    "around",
+    "cool"
+  ],
+  "author": "Sai Vegasena",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/svv232/Facebook-Bots/issues"
+  }
+}
