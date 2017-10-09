@@ -1,6 +1,6 @@
 - There were inside jokes from my friends back in Texas and this silly Facebook app keeps us laughing even though we are all apread across the country for college
 
-- Right now I used Heroku to deploy the with some help from Hartley Brody and his excellent Blog Post https://blog.hartleybrody.com/fb-messenger-bot/
+- Right now I used Heroku and Flask to deploy with some help from Hartley Brody and his excellent Blog Post https://blog.hartleybrody.com/fb-messenger-bot/
 
  - There were some issues:
     I wanted to use this for groupchats but fb rewuires a fully deployed
