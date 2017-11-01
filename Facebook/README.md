@@ -8,7 +8,4 @@
 
 - My solution is to use their npm library and redeploy this whole thing in JavaScript
     so I can use this in actual group messages instead of this being a facebook page,
-    and me adding testers.
-
-- My ultimate goal is to have an application written fully in react and deployed through
-heroku so I can be the ultimate shitposter in all my group chats!!
+    and me adding testers to the app.
